@@ -49,6 +49,7 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
   func(obj_mango)
 ```
 ## Output
-<img width="607" height="343" alt="image" src="https://github.com/user-attachments/assets/a505f61b-f18a-4bf6-abe3-010867371b6b" />
+<img width="945" height="231" alt="image" src="https://github.com/user-attachments/assets/6c432514-e6ca-4eef-bc77-24cc7fb3f856" />
 
 ## Result
+Thus , the program has been executed succesfully.
