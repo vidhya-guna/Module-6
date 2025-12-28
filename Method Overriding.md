@@ -33,3 +33,4 @@ obj_hammerhead.type()
 <img width="641" height="357" alt="image" src="https://github.com/user-attachments/assets/347e2ec9-12f0-4f11-be44-7ee659ad9683" />
 
 ## RESULT
+Thus , the program has been executed succesfully.
