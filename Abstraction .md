@@ -69,3 +69,5 @@ print("Area of a triangle:", t.area())
 <img width="827" height="405" alt="image" src="https://github.com/user-attachments/assets/ec12a82e-d759-4ad8-8439-a856b64090f3" />
 
 ## Result
+Thus , the program has been executed succesfully.
+
