@@ -36,6 +36,8 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
   obj = Rectangle()
 ```
 ## Output
-<img width="285" height="137" alt="image" src="https://github.com/user-attachments/assets/74239ab9-f5a8-45f6-b617-8cbf4adaf7a7" />
+<img width="740" height="186" alt="image" src="https://github.com/user-attachments/assets/88f992f5-eaf2-41b9-a4bb-59a9c600043a" />
+
 
 ## Result
+Thus , the program has been executed succesfully.
